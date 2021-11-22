@@ -20,4 +20,4 @@ The gesture.names file and mp_hand_gesture folder have to be downlaoded.These ar
 
 After saving these files include the path of corresponding directories in the "load_model" function (in case of mp_hand_gesture folder) and "open" function (in case of gesture.names file)
 
-## After following the above steps our code will be ready to use.
+After following the above steps our code will be ready to use.
