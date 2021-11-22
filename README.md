@@ -18,5 +18,6 @@ The gesture.names file and mp_hand_gesture folder have to be downlaoded.These ar
 * gesture.names file contains the names of gesture classes separated by new lines
 * mp_hand_gesture folder contains the tensorflow trained model and other necesarry variables required to load our model
 
-After saving these files include the path of corresponding directories in the "load_model" function (in case of mp_hand_gesture folder) and "open" function (in case of gesture.names files)
+After saving these files include the path of corresponding directories in the "load_model" function (in case of mp_hand_gesture folder) and "open" function (in case of gesture.names file)
 
+## After following the above steps our code will be ready to use.
